@@ -3788,10 +3788,10 @@ kind-of@^6.0.0, kind-of@^6.0.2:
   resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-6.0.2.tgz#01146b36a6218e64e58f3a8d66de5d7fc6f6d051"
   integrity sha512-s5kLOcnH0XqDO+FvuaLX8DDjZ18CGFk7VygH40QoKPUQhW4e2rvM0rwUq0t8IQDOwYSeLK01U90OjzBTme2QqA==
 
-laravel-mix-postcss-config@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/laravel-mix-postcss-config/-/laravel-mix-postcss-config-1.0.2.tgz#257a73b0775d1b34416b8cc464eca43cc171e8e7"
-  integrity sha512-6cvzwsATw7FMvKX5/PNF2QbhADQdpXCJk2G3xcqN644uVdPW2lNhKn7HHQz/L4XxnE8UcTh/IcEmj8cjcu/GRA==
+laravel-mix-postcss-config@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/laravel-mix-postcss-config/-/laravel-mix-postcss-config-1.0.4.tgz#0a20f46a2854df43e2aae4d814c2cbec2e75699e"
+  integrity sha512-9OVbuuxA5kxaOZdeLi6wsMzA6jrxAOOPgFFLNz9/R/E2htokCdZD1GTJZNKTCgPJ3/PEU0G0AtBqCXJv9OxfIQ==
 
 laravel-mix-purgecss@^4.2.0:
   version "4.2.0"
