@@ -114,6 +114,13 @@
               >
                 {{ language }}
               </button>
+              <button
+                v-if="!!currentLanguage"
+                class="font-thin text-secondary text-1xl p-2 bg-light hover:bg-amberFade"
+                @click="chooseLanguage('')"
+              >
+                Clear selection
+              </button>
             </div>
           </div>
           <button

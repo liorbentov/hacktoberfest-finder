@@ -11,15 +11,15 @@ module.exports = {
     },
     colors: {
       transparent: "transparent",
-
       black: "#22292f",
       white: "#ffffff",
-
+      light: "#F0F8FF",
       primary: "#A11EC6",
       secondary: "#152347",
       amber: "#FF9A56",
       blue: "#2B81D9",
-      selected: "#FF9A56"
+      selected: "#FF9A56",
+      amberFade: "#FAEBD7"
     },
     spacing: {
       px: "1px",
@@ -381,7 +381,7 @@ module.exports = {
       const buttons = {
         ".selected": {
           backgroundColor: `${config("theme.colors.selected")} !important`,
-          color: "#fff",
+          color: config("theme.colors.white"),
           "&:hover": {
             backgroundColor: "#3182ce"
           }
